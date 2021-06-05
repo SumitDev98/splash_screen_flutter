@@ -1,4 +1,4 @@
-# hello_flutter
+# Splash_Screen_flutter
 
 A new Flutter project.
 
